@@ -17,7 +17,7 @@ function createGallaryMarkup(galleryItems) {
             <img
               class="gallery__image"
               src="${preview}"
-              alt=""${description}"
+              alt="${description}"
               />
           </a>
         </li>
